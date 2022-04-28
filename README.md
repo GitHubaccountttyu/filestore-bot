@@ -42,7 +42,7 @@ This is Telegram Parmanent Files Store Bot by [@JamesbonddOO7](https://t.me/Jame
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/hHu2RaePhwI)
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GitHubaccountttyu/PyroFilesStoreBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GitHubaccountttyu/filestore-bot)
 
 ## Commands:
 ```
